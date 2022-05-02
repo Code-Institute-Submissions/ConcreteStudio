@@ -1,3 +1,3 @@
 # ConcreteStudio
-Concrete studios is a website for an up and coming music studio. It's main purpose is to inform clients what services are offered and how you can get in touch/where to find them.
-The website will target musicians looking to record their music or have their self recored music mixed,mastered and produced. It will also target anyone in the film industry, and podcasters.
+Concrete studios is a website for an up and coming music studio. It's main purpose is to inform clients what services are offered, how they can get in touch and where to find the studio.
+The website will target musicians who want to record, mix, master and produce their music. It will also target podcasters and anyone in need of recoding voiceovers or audio books. 
