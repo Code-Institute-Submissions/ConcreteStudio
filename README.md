@@ -34,6 +34,8 @@ The website will target musicians who want to record, mix, master and produce th
 - User wants to know if we can finish producing a track they recorded at home.
 - User wants to find out how to contacct us
 - User wants to know how big our workspace is
+### Wireframes
+<img width="689" alt="Screenshot 2022-05-10 at 19 42 58" src="https://user-images.githubusercontent.com/102697164/167700077-148835de-c77f-4575-b115-5e1e30444e84.png">
 
 ### Features Left to Implement
 - 
