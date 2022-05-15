@@ -29,11 +29,10 @@ The website will target musicians who want to record, mix, master and produce th
 - It contains the opeing hours, contact number and address for the studio
 - Also conatins External links to social media
 ### User Stories
-- User wants to know where the studio is located
-- User wants to find out what services we provide
-- User wants to know if we can finish producing a track they recorded at home.
-- User wants to find out how to contacct us
-- User wants to know how big our workspace is
+- As a user I want to know where the studio is located
+- As a user I want to find out to find out what services the studio provides
+- As a user I want find out how to contacct the studio
+- As a user I want to know what facilities the studio has
 ### Wireframes
 <img width="689" alt="Screenshot 2022-05-10 at 19 42 58" src="https://user-images.githubusercontent.com/102697164/167700077-148835de-c77f-4575-b115-5e1e30444e84.png">
 
