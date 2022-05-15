@@ -10,9 +10,8 @@ html, body {
   }
   nav{
      background-color:translucent;
-     text-color:#black;
-     text-align:right;
-     font-type:bold;
+     color:black;
+     text-align:center;
   }
   nav >a:hover {
     color:#46ddbf;
@@ -40,7 +39,7 @@ html, body {
   }
   footer {
     background-color:grey;
-    text-color:black;
+    color:black;
     padding: 1em;
       text-align: center;
   }
