@@ -86,21 +86,29 @@ nav >a:hover {
   padding-top:50px;
   float:left;
   width:33%;
-  background-color:rgba(13,27,38,255 .7)
+  background-color:rgba(13,27,38,255 .7);
+  font-size:150%;
+  
 
 }
 #box2 {
   padding-top:50px;
   width:33%;
-  background-color:rgba(13,27,38,255 .7)
+  background-color:rgba(13,27,38,255 .7);
+  font-size:150%;
+  
 
 }
 #box3 {
   padding-top:50px;
   float:right;
   width:33%;
-  background-color:rgba(13,27,38,255 .7)
+  background-color:rgba(13,27,38,255 .7);
+  font-size:150%;
 
+}
+#reasons {
+  display:inline-block;
 }
 p{color:black}
 h2{color:black}
