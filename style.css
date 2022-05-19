@@ -3,15 +3,16 @@ html, body {
     height: 100%;
   }
   header > h1{
-    color:white
+    color:black;
   }
   body {
     background-color:white;
   }
-  nav{
+  nav {
      background-color:black;
      color:white;
      text-align:right;
+     display:text-uppercase;
 
   }
   nav >a:hover {
@@ -20,9 +21,6 @@ html, body {
   p{color:black}
   h2{color:black}
   
-  header > p {
-      color: white;
-  }
   
   a:hover {
       text-decoration: none;
@@ -43,6 +41,9 @@ html, body {
     color:black;
     padding: 1em;
     text-align: center;
+    display:inline-block;
+  }
+  div {
     display:inline-block;
   }
   footer > p {color:silver}
