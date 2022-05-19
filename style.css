@@ -9,9 +9,10 @@ html, body {
     background-color:white;
   }
   nav{
-     background-color:translucent;
-     color:black;
-     text-align:center;
+     background-color:black;
+     color:white;
+     text-align:right;
+     
   }
   nav >a:hover {
     color:#46ddbf;
