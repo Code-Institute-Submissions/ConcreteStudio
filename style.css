@@ -1,58 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Akshar:wght@300&family=Road+Rage&display=swap');
 html, body {
-    width: 100%;
-    height: 100%;
-  }
-  header > h1{
-    color:black;
-  }
-  body {
-    background-color:white;
-  }
-  nav {
-     background-color:black;
-     color:white;
-     text-align:right;
-     display:text-uppercase;
+  width: 100%;
+  height: 100%;
+}
+* {
+  margin:0;
+  padding:0;
+  border: none;
+}
+header > h1{
+  color:black;
+}
+body {
+  font-family:Akshar;
+  font-weight:300;
+  background-color:white;
+}
+nav {
+   background-color:black;
+   color:white;
+   text-align:right;
+   display:text-uppercase;
+   position:fixed;
 
-  }
-  nav >a:hover {
-    color:#46ddbf;
-  }
-  p{color:black}
-  h2{color:black}
-  
-  
-  a:hover {
-      text-decoration: none;
-      color:#46ddbf ;
-  }
-  
-  footer > span {
-      color: black;
-  }
-  
-  footer > a {
-      color: silver;
-      text-decoration: none;
-      padding: 0 15px;
-  }
-  footer {
-    background-color:grey;
-    color:black;
-    padding: 1em;
-    text-align: center;
-    display:inline-block;
-  }
-  div {
-    display:inline-block;
-  }
-  footer > p {color:silver}
-  
-  input[type=submit] {
-      margin-left: 0.75rem;
-      padding: 0.75rem;
-      background-color: #46ddbf;
-      color: white;
-      border: none;
-      border-radius: 5px;
-  }
+}
+nav >a:hover {
+  color:#46ddbf;
+}
+p{color:black}
+h2{color:black}
+
+
+a:hover {
+    text-decoration: none;
+    color:#46ddbf ;
+}
+
+footer > span {
+    color: black;
+}
+
+footer > a {
+    color: silver;
+    text-decoration: none;
+    padding: 0 15px;
+}
+footer {
+  background-color:grey;
+  color:black;
+  padding: 1em;
+  text-align: center;
+  display:inline-block;
+}
+div {
+  display:inline-block;
+}
+footer > p {color:silver}
+
+input[type=submit] {
+    margin-left: 0.75rem;
+    padding: 0.75rem;
+    background-color: #46ddbf;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.black-background {
+  background-color: black;
+}
