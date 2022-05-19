@@ -27,24 +27,40 @@ h1, h2 {
 }
 #logo {
   float:left;
-  font-size:400%
+  font-size:400%;
 }
 /* navigation links */
 #menu {
   font-size: 200%;
-  letter-spacing:3px
+  letter-spacing:3px;
 }
 #topnav {
   float:right;
   margin-right:30px;
 }
+#menu a {
+  text-decoration:none;
+  color:inherit;
+} 
+#menu, #logo {
+  line-height: 100px;
+}
+/* check nav centered fixed above */
+#menu a:hover {
+  color:#46ddbf;
+}
+.active {
+  border-bottom:1px solid #46ddbf;
+}
 nav {
    float:right;
-   background-color:black;
-   color:white;
-   text-align:right;
-   display:text-uppercase;
+   background-color:translucent;
+   text-transform:uppercase;
    position:fixed;
+   font-size: 200%;
+   letter-spacing:3px;
+   text-decoration:none;
+   color:#0d1b26;
 
 }
 nav >a:hover {
