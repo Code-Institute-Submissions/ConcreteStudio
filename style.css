@@ -29,7 +29,17 @@ h1, h2 {
   float:left;
   font-size:400%
 }
+/* navigation links */
+#menu {
+  font-size: 200%;
+  letter-spacing:3px
+}
+#topnav {
+  float:right;
+  margin-right:30px;
+}
 nav {
+   float:right;
    background-color:black;
    color:white;
    text-align:right;
