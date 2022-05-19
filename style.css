@@ -12,7 +12,7 @@ html, body {
      background-color:black;
      color:white;
      text-align:right;
-     
+
   }
   nav >a:hover {
     color:#46ddbf;
@@ -42,7 +42,8 @@ html, body {
     background-color:grey;
     color:black;
     padding: 1em;
-      text-align: center;
+    text-align: center;
+    display:inline-block;
   }
   footer > p {color:silver}
   
