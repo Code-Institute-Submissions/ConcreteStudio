@@ -28,7 +28,7 @@ h1, h2 {
   margin-left:20px;
 }
 /* navigation links */
-#menu {
+#nav {
   font-size: 200%;
   letter-spacing:3px;
 }
@@ -36,15 +36,15 @@ h1, h2 {
   float:right;
   margin-right:30px;
 }
-#menu a {
+#nav a {
   text-decoration:none;
   color:inherit;
 } 
-#menu, #logo {
+#nav, #logo {
   line-height: 100px;
 }
 /* check nav centered fixed above */
-#menu a:hover {
+#nav a:hover {
   color:#46ddbf;
 }
 .active {
@@ -109,6 +109,23 @@ nav >a:hover {
 }
 #reasons {
   display:inline-block;
+  text-align:center;
+  margin-top:5%;
+}
+fieldset {
+  width:100%;
+}
+#about {
+  text-align:center;
+}
+#service {
+  text-align:center;
+}
+#services-list {
+  width:100%;
+  text-align:center;
+  position:center;
+  background-color:#da7f06;
 }
 p{color:black}
 h2{color:black}
