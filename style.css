@@ -127,8 +127,6 @@ fieldset {
   position:center;
   background-color:#da7f06;
 }
-p{color:black}
-h2{color:black}
 
 
 a:hover {
@@ -137,7 +135,7 @@ a:hover {
 }
 
 footer > span {
-    color: black;
+    color: white;
 }
 
 footer > a {
@@ -146,17 +144,17 @@ footer > a {
     padding: 0 15px;
 }
 footer {
-  background-color:grey;
-  color:black;
+  background-color:#0d1b26;
+  color:white;
   padding: 1em;
   text-align: center;
-  display:inline-block;
   width:100%;
+  display:inline-block;
 }
 div {
   display:inline-block;
 }
-footer > p {color:silver}
+footer > p {color:white}
 
 input[type=submit] {
     margin-left: 0.75rem;
