@@ -55,4 +55,8 @@ The website will target musicians who want to record, mix, master and produce th
 - The site is now deployed.
 ## Credits
 ### Content
+#### Content and information was taken from the following websites:
+- https://www.newallianceeast.com/
+- http://www.rainwaterstudio.ie/
+- https://grouselodge.com/
 ### Media
