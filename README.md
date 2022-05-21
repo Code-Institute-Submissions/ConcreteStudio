@@ -37,7 +37,7 @@ The website will target musicians who want to record, mix, master and produce th
 <img width="689" alt="Screenshot 2022-05-10 at 19 42 58" src="https://user-images.githubusercontent.com/102697164/167700077-148835de-c77f-4575-b115-5e1e30444e84.png">
 
 ### Features Left to Implement
-- 
+- none
 ## Testing
 ### Validator Testing
 #### HTML
@@ -45,8 +45,14 @@ The website will target musicians who want to record, mix, master and produce th
 #### CSS
 -
 ### Unfixed Bugs
+- There are no unfixed bugs.
 ## Deployment
 #### The site was deployed to GitHub. The steps to deploy are as follows:
+- Open GitHub in a new tab.
+- Click on on project name (in this case: ConcreteStudios)
+- Click on settings in the navigation bar below the file name.
+- Click on "pages" in the general menu on the left hand side of the page.
+- The site is now deployed.
 ## Credits
 ### Content
 ### Media
