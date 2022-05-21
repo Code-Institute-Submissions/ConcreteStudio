@@ -76,18 +76,46 @@ nav {
 } 
 #reasons {
   text-align:center;
-  margin-top:20px;
+  margin-top:30px;
+  margin-bottom:30px;
 }
+/*#get-in-touch{
+  text-align:center;
+  margin-bottom:30px;
+  margin-top:30px;
+}*/
 fieldset {
-  width:100%;
+  margin:2em 0;
+  padding:1em 2em;
+  border:solid 1px;
+  border-radius:6px;
+  min-width:60%;
+  text-align:center;
+  margin-top:30px;
+}
+legend {
+  font-size:1.25em;
+  padding:0.25em;
+  color:#46ddbf;
+
+}
+label {
+  display:block;
+  margin-top:1em;
+}
+textarea {
+  min-height:8em;
+  min-width:8em;
+  padding:5em;
+  border:solid 1px #0d1b26;
 }
 #about {
   text-align:center;
-  margin-top:20px;
+  margin-top:30px;
 }
 #service {
   text-align:center;
-  margin-top:20px;
+  margin-top:30px;
 }
 #services-list {
   width:33%;
@@ -97,8 +125,8 @@ fieldset {
   margin-right:33%;
   margin-left:33%;
   border-radius:50px;
-  margin-top:20px;
-  margin-bottom:20px;
+  margin-top:30px;
+  margin-bottom:30px;
 }
 
 a:hover {
