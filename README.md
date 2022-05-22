@@ -21,7 +21,7 @@ The website will target musicians who want to record, mix, master and produce th
 - Tells the user what gear is present in the studio what they need to bring with them and what facilities they have on site.
 #### Get in touch
 - Contains a call back request form to fill out if the user wants to book a session. They can choose what way they would like to be contacted.
-- A map of the location
+- Address of loaction.
 - Contact information 
 - Opening hours.
 #### Footer
@@ -41,9 +41,13 @@ The website will target musicians who want to record, mix, master and produce th
 ## Testing
 ### Validator Testing
 #### HTML
--
+- Used W3 Validator to check code for errors. 
+- Some errors occured.
+- All errors corrected. No current errors.
 #### CSS
--
+- Css code checked in Jigsaw.
+- Some errors occured.
+- All errors corrected.
 ### Unfixed Bugs
 - There are no unfixed bugs.
 ## Deployment
@@ -56,7 +60,9 @@ The website will target musicians who want to record, mix, master and produce th
 ## Credits
 ### Content
 #### Content and information was taken from the following websites:
+- Took inspiration from Coders Coffeehouse and Love runnung walkthrough project.
 - https://www.newallianceeast.com/
 - http://www.rainwaterstudio.ie/
 - https://grouselodge.com/
 ### Media
+- Images taken from Shutterstock.
